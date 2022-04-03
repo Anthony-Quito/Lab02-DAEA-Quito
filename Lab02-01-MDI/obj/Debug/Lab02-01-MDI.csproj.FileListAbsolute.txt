@@ -1,0 +1,13 @@
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\bin\Debug\Lab02-01-MDI.exe.config
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\bin\Debug\Lab02-01-MDI.exe
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\bin\Debug\Lab02-01-MDI.pdb
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\obj\Debug\Lab02-01-MDI.csproj.AssemblyReference.cache
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\obj\Debug\Lab02_01_MDI.frmLogin.resources
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\obj\Debug\Lab02_01_MDI.Properties.Resources.resources
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\obj\Debug\Lab02-01-MDI.csproj.GenerateResource.cache
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\obj\Debug\Lab02-01-MDI.csproj.CoreCompileInputs.cache
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\obj\Debug\Lab02-01-MDI.exe
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\obj\Debug\Lab02-01-MDI.pdb
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\obj\Debug\Lab02_01_MDI.EjemploMDI.resources
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\obj\Debug\Lab02_01_MDI.manUsuario.resources
+C:\Users\ANTHONY\source\repos\Lab02-01-MDI\Lab02-01-MDI\obj\Debug\Lab02_01_MDI.PrincipalMDI.resources
